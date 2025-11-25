@@ -40,10 +40,6 @@ class VillageEdge implements Comparable<VillageEdge> {
         " >";
 
   }
-
-  static int getVertexIndex(char vertex) {
-    return vertex - 'A';
-  }
 }
 
 class Graph {
