@@ -10,7 +10,7 @@ This project uses Java, with **JavaXSwing**, **GraphStream** library for graph v
 2. Run:
    ```bash
    mvn clean install
-   mvn exec:java -Dexec.mainClass="VillagePaving"
+   mvn exec:java
    ```
 
 ### Option 2: Using Gradle
